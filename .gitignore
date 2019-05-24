@@ -1,0 +1,8 @@
+# yarn
+node_modules
+yarn-error.log
+
+# build
+src/js/build
+src/css
+src/js/vendor/chartiq/seed/dist/main.js

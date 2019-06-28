@@ -1,5 +1,5 @@
 import React from "react";
-import Module from "npm-module";
+import Module from "leviathan-home";
 
 const App = () => {
   return <Module />;

@@ -1,6 +1,6 @@
 {
-  "short_name": "npm-module",
-  "name": "npm-module",
+  "short_name": "leviathan-home",
+  "name": "leviathan-home",
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#000000",

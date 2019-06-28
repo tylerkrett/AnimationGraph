@@ -1,10 +1,10 @@
 {
-  "name": "Levithanfm-Home",
+  "name": "leviathan-home",
   "version": "1.0.0",
   "description": "",
   "author": "tylerkrett",
   "license": "MIT",
-  "repository": "tylerkrett/npm-module",
+  "repository": "tylerkrett/leviathan-home",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",

@@ -5803,7 +5803,7 @@ npm-bundled@^1.0.1:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/npm-bundled/-/npm-bundled-1.0.6.tgz#e7ba9aadcef962bb61248f91721cd932b3fe6bdd"
 
-"npm-module@link:..":
+"leviathan-home@link:..":
   version "0.0.0"
   uid ""
 

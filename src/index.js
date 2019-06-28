@@ -3,7 +3,7 @@ import { Parallax } from "react-spring";
 import MediaQuery from "react-responsive";
 import AnimationGraph from "./components/AnimationChart";
 import { colour } from "./utils";
-import boxesUrl from "./images/boxes.svg";
+
 // import MeetTheTeam from "@leviathan/molecules/parallaxes/meet-the-team";
 // import Welcome from "@leviathan/molecules/parallaxes/welcome";
 // import About from "@leviathan/molecules/parallaxes/about";
@@ -18,7 +18,7 @@ class Homepage extends PureComponent {
           speed={0}
           factor={4}
           style={{
-            backgroundImage: `url(${boxesUrl})`,
+            backgroundImage: `url(/images/pictures/box.svg)`,
             backgroundSize: "25px",
             backgroundColor: `${colour.blue}`,
             backgroundRepeat: "repeat",

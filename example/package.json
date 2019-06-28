@@ -1,6 +1,6 @@
 {
   "name": "Levithanfm-Home-example",
-  "homepage": "https://tylerkrett.github.io/npm-module",
+  "homepage": "https://tylerkrett.github.io/leviathan-home",
   "version": "0.0.0",
   "license": "MIT",
   "private": true,
@@ -9,7 +9,7 @@
     "react": "link:../node_modules/react",
     "react-dom": "^16.8.0",
     "react-scripts": "^2.1.3",
-    "npm-module": "link:.."
+    "leviathan-home": "link:.."
   },
   "scripts": {
     "start": "SKIP_PREFLIGHT_CHECK=true react-scripts start",

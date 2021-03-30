@@ -5211,6 +5211,20 @@ leven@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/leven/-/leven-2.1.0.tgz#c2e7a9f772094dee9d34202ae8acce4687875580"
 
+"leviathan-home@link:..":
+  version "1.0.0"
+  dependencies:
+    "@vx/curve" "^0.0.165"
+    "@vx/gradient" "0.0.165"
+    "@vx/mock-data" "0.0.165"
+    "@vx/responsive" "0.0.172"
+    "@vx/scale" "0.0.165"
+    "@vx/shape" "0.0.171"
+    d3-array "^1.2.4"
+    react-responsive "^4.1.0"
+    react-reveal "^1.2.2"
+    react-spring "^5.7.2"
+
 levn@^0.3.0, levn@~0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/levn/-/levn-0.3.0.tgz#3b09924edf9f083c0490fdd4c0bc4421e04764ee"
@@ -5802,10 +5816,6 @@ normalize-url@^3.0.0:
 npm-bundled@^1.0.1:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/npm-bundled/-/npm-bundled-1.0.6.tgz#e7ba9aadcef962bb61248f91721cd932b3fe6bdd"
-
-"leviathan-home@link:..":
-  version "0.0.0"
-  uid ""
 
 npm-packlist@^1.1.6:
   version "1.4.1"
@@ -7192,7 +7202,6 @@ react-spring@^5.7.2:
 
 "react@link:../node_modules/react":
   version "0.0.0"
-  uid ""
 
 read-pkg-up@^1.0.1:
   version "1.0.1"
@@ -9000,8 +9009,8 @@ xtend@^4.0.0, xtend@^4.0.1, xtend@~4.0.1:
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
 
 y18n@^3.2.1:
-  version "3.2.1"
-  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.1.tgz#6d15fba884c08679c0d77e88e7759e811e07fa41"
+  version "3.2.2"
+  resolved "https://registry.yarnpkg.com/y18n/-/y18n-3.2.2.tgz#85c901bd6470ce71fc4bb723ad209b70f7f28696"
 
 "y18n@^3.2.1 || ^4.0.0", y18n@^4.0.0:
   version "4.0.0"

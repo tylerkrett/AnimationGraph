@@ -4015,8 +4015,8 @@ hoopy@^0.1.2:
   resolved "https://registry.yarnpkg.com/hoopy/-/hoopy-0.1.4.tgz#609207d661100033a9a9402ad3dea677381c1b1d"
 
 hosted-git-info@^2.1.4:
-  version "2.7.1"
-  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.7.1.tgz#97f236977bd6e125408930ff6de3eec6281ec047"
+  version "2.8.9"
+  resolved "https://registry.yarnpkg.com/hosted-git-info/-/hosted-git-info-2.8.9.tgz#dffc0bf9a21c02209090f2aa69429e1414daf3f9"
 
 hpack.js@^2.1.6:
   version "2.1.6"
@@ -5211,6 +5211,20 @@ leven@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/leven/-/leven-2.1.0.tgz#c2e7a9f772094dee9d34202ae8acce4687875580"
 
+"leviathan-home@link:..":
+  version "1.0.0"
+  dependencies:
+    "@vx/curve" "^0.0.165"
+    "@vx/gradient" "0.0.165"
+    "@vx/mock-data" "0.0.165"
+    "@vx/responsive" "0.0.172"
+    "@vx/scale" "0.0.165"
+    "@vx/shape" "0.0.171"
+    d3-array "^1.2.4"
+    react-responsive "^4.1.0"
+    react-reveal "^1.2.2"
+    react-spring "^5.7.2"
+
 levn@^0.3.0, levn@~0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/levn/-/levn-0.3.0.tgz#3b09924edf9f083c0490fdd4c0bc4421e04764ee"
@@ -5802,10 +5816,6 @@ normalize-url@^3.0.0:
 npm-bundled@^1.0.1:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/npm-bundled/-/npm-bundled-1.0.6.tgz#e7ba9aadcef962bb61248f91721cd932b3fe6bdd"
-
-"leviathan-home@link:..":
-  version "0.0.0"
-  uid ""
 
 npm-packlist@^1.1.6:
   version "1.4.1"
@@ -7192,7 +7202,6 @@ react-spring@^5.7.2:
 
 "react@link:../node_modules/react":
   version "0.0.0"
-  uid ""
 
 read-pkg-up@^1.0.1:
   version "1.0.1"

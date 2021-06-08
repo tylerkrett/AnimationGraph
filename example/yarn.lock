@@ -5211,6 +5211,20 @@ leven@^2.1.0:
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/leven/-/leven-2.1.0.tgz#c2e7a9f772094dee9d34202ae8acce4687875580"
 
+"leviathan-home@link:..":
+  version "1.0.0"
+  dependencies:
+    "@vx/curve" "^0.0.165"
+    "@vx/gradient" "0.0.165"
+    "@vx/mock-data" "0.0.165"
+    "@vx/responsive" "0.0.172"
+    "@vx/scale" "0.0.165"
+    "@vx/shape" "0.0.171"
+    d3-array "^1.2.4"
+    react-responsive "^4.1.0"
+    react-reveal "^1.2.2"
+    react-spring "^5.7.2"
+
 levn@^0.3.0, levn@~0.3.0:
   version "0.3.0"
   resolved "https://registry.yarnpkg.com/levn/-/levn-0.3.0.tgz#3b09924edf9f083c0490fdd4c0bc4421e04764ee"
@@ -5415,8 +5429,8 @@ memory-fs@^0.4.0, memory-fs@~0.4.1:
     readable-stream "^2.0.1"
 
 merge-deep@^3.0.2:
-  version "3.0.2"
-  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.2.tgz#f39fa100a4f1bd34ff29f7d2bf4508fbb8d83ad2"
+  version "3.0.3"
+  resolved "https://registry.yarnpkg.com/merge-deep/-/merge-deep-3.0.3.tgz#1a2b2ae926da8b2ae93a0ac15d90cd1922766003"
   dependencies:
     arr-union "^3.1.0"
     clone-deep "^0.2.4"
@@ -5802,10 +5816,6 @@ normalize-url@^3.0.0:
 npm-bundled@^1.0.1:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/npm-bundled/-/npm-bundled-1.0.6.tgz#e7ba9aadcef962bb61248f91721cd932b3fe6bdd"
-
-"leviathan-home@link:..":
-  version "0.0.0"
-  uid ""
 
 npm-packlist@^1.1.6:
   version "1.4.1"
@@ -7192,7 +7202,6 @@ react-spring@^5.7.2:
 
 "react@link:../node_modules/react":
   version "0.0.0"
-  uid ""
 
 read-pkg-up@^1.0.1:
   version "1.0.1"
